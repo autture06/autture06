@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @autture06
+- 👋 Hi, I’m Arya Utture
 - 👀 I’m interested in learning about data science and AI/ML within computer science.
 - 🌱 I’m currently an undergraduate student at Rutgers University studying computer science.
 - 💞️ I’m looking to collaborate on interesting projects to enhance my knowledge of learning different languages in computer science.
