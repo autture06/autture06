@@ -107,8 +107,13 @@ I'm a **Software Engineer I at JPMorganChase** and a **Master's student in Compu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=autture06&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autture06&layout=compact&hide_border=true" alt="Top languages"/>
+  <img src="https://img.shields.io/github/followers/autture06?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-30-1f6feb?style=for-the-badge&logo=github" alt="Public repos"/>
+  <img src="https://komarev.com/ghpvc/?username=autture06&label=Profile%20Views&style=for-the-badge&color=1f6feb" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1f6feb/autture06" alt="GitHub contribution chart" width="90%"/>
 </p>
 
 ## 🤝 Let's Connect
