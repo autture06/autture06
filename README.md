@@ -104,18 +104,6 @@ I'm a **Software Engineer I at JPMorganChase** and a **Master's student in Compu
 - ☁️ Build graduate-level projects that combine machine learning with cloud deployment
 - 🏗️ Pursue [ML/software engineering leadership roles or a startup] long term
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/autture06?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-30-1f6feb?style=for-the-badge&logo=github" alt="Public repos"/>
-  <img src="https://komarev.com/ghpvc/?username=autture06&label=Profile%20Views&style=for-the-badge&color=1f6feb" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1f6feb/autture06" alt="GitHub contribution chart" width="90%"/>
-</p>
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on interesting projects in software development, cloud, and AI/ML.
