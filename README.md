@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:6e40c9&height=240&section=header&text=Arya%20Utture&fontColor=ffffff&fontSize=62&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Machine%20Learning&descSize=20&descAlignY=66&animation=fadeIn" alt="Arya Utture" width="100%"/>
 
 <a href="https://github.com/autture06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=45&lines=Software+Engineer+I+%40+JPMorganChase;M.S.+Computer+Science+%40+Boston+University;Cloud+%26+Observability+Enthusiast;Building+toward+ML-powered+systems" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=45&lines=Software+Engineer+%40+JPMorganChase;M.S.+Computer+Science+%40+Boston+University;Cloud+%26+Observability+Enthusiast;Building+toward+ML-powered+systems" alt="Typing intro"/>
 </a>
 
 <br/>
