@@ -42,7 +42,7 @@ and I'm building a strong foundation in machine learning through my graduate stu
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🏛️ Undergraduate</h3>
-      <b>B.S. Computer Science</b><br/>
+      <b>B.A. Computer Science</b><br/>
       Rutgers University–New Brunswick<br/><br/>
       <sub>Software engineering<br/>fundamentals</sub>
     </td>
