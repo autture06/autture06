@@ -1,121 +1,140 @@
-<h1 align="center">
-Hi, I'm Arya Utture!
-	<a href="https://aryauttureportfolio.vercel.app/" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-<p align="center">
-	<a href="https://github.com/autture06">
-		<img src="https://komarev.com/ghpvc/?username=autture06&label=Profile%20views&color=0e75b6&style=flat" alt="autture06" />
-	</a>
-	<a href="https://github.com/autture06">
-		<img src="https://img.shields.io/github/followers/autture06?label=Followers" alt="followers" />
-	</a>
-</p>
+<div align="center">
 
-<p align="center">
-	<a href="https://github.com/autture06">
-		<img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer+I+@+JPMorganChase;MS+Computer+Science+@+Boston+University;Cloud+%26+Observability+Enthusiast;Exploring+Machine+Learning&center=true&width=500&height=45">
-	</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:6e40c9&height=200&section=header&text=Arya%20Utture&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Machine%20Learning&descSize=18&descAlignY=62" alt="Arya Utture" width="100%"/>
 
----
+### Software Engineer I @ JPMorganChase &nbsp;|&nbsp; M.S. Computer Science @ Boston University
 
-> 👨‍💻 Master's student in Computer Science at Boston University  
-> 💼 Software Engineer I @ JPMorganChase  
-> 🎓 B.S. in Computer Science, Rutgers University–New Brunswick  
-> ☁️ Hands-on experience with AWS ECS, OpenTelemetry, and metrics pipelines  
-> 🧠 Building ML foundations through graduate coursework in probability and machine learning  
-> 🛠️ Exploring React, TypeScript, Python, Node.js, and cloud-based ML deployment  
-> 🚀 Goal: grow into a technical leader building ML-powered, cloud-based systems  
-> 📄 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/autture06/autture06/raw/main/Arya_Utture_Resume.pdf)
+<a href="https://aryauttureportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/autture/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/autture06/autture06/raw/main/Arya_Utture_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-d73a49?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+<a href="mailto:arya.utture@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
----
+**[Snapshot](#-snapshot) · [Interests](#-technical-interests) · [Tech Stack](#%EF%B8%8F-tech-stack) · [Projects](#-featured-projects) · [Goals](#-current-goals) · [Contact](#-lets-collaborate)**
 
-## 🤝 Connect with Me
+</div>
 
-<p align="center">
-	<a href="mailto:arya.utture@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/autture/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
-	<a href="https://github.com/autture06"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
-	<a href="https://aryauttureportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=plastic&logo=vercel&logoColor=white"/></a>
-</p>
+<br/>
 
----
+## 📌 Snapshot
+
+I combine professional software engineering with hands-on cloud infrastructure and observability experience, and I'm building a strong foundation in machine learning through my graduate studies.
+
+| | |
+|---|---|
+| 💼 **Work** | Software Engineer I at **JPMorganChase** |
+| 🎓 **Education** | M.S. Computer Science, **Boston University** · B.S. Computer Science, **Rutgers University–New Brunswick** |
+| ☁️ **Experience** | AWS ECS, OpenTelemetry, and metrics pipelines |
+| 🧠 **Learning** | Graduate coursework in probability and machine learning foundations |
+| 🛠️ **Exploring** | React, TypeScript, Python, Node.js, and cloud-based ML deployment |
+| 🚀 **Aiming for** | Growing into a technical leader building ML-powered, cloud-based systems |
+
+<br/>
 
 ## 🔭 Technical Interests
 
-- 🤖 **Machine Learning & AI:** applying ML to practical products and strengthening my probability and statistics foundations
-- ☁️ **Cloud & Observability:** AWS, containerized services, metrics, and monitoring pipelines
-- 🧱 **Software Engineering:** backend and full-stack development, clean and maintainable systems
-- 📊 **Data-Driven Systems:** data infrastructure that makes reliable ML and analytics possible
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Machine Learning & AI</h4>
+      Applying ML to practical products and strengthening my probability and statistics foundations.
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & Observability</h4>
+      AWS, containerized services, metrics, and monitoring pipelines.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧱 Software Engineering</h4>
+      Backend and full-stack development, clean and maintainable systems.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data-Driven Systems</h4>
+      Data infrastructure that makes reliable ML and analytics possible.
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🛠️ My Favorite Tools
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-	<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-	<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🧰 Frameworks & Libraries
-<p>
-	<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-	<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-	<img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
-	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-	<img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
-</p>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages"/>
 
-### ☁️ Cloud & Observability
-<p>
-	<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
-	<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white"/>
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,threejs" alt="Frameworks"/>
+<br/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
 
-### 🔧 Tools & Platforms
-<p>
-	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-	<img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-	<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
-	<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-</p>
+**Cloud, Observability & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,vercel" alt="Cloud and Tools"/>
+<br/>
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
----
+</div>
+
+<br/>
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [🌐 Portfolio Website](https://github.com/autture06/Portfolio-Website-Arya) | Interactive developer portfolio showcasing my experience, projects, and skills | React, Three.js, JavaScript |
-| [📊 Sorting Algorithm Visualizer](https://github.com/autture06/sorting-algorithm-visualizer-project) | Visualizes how classic sorting algorithms work through dynamic animations | TypeScript, Algorithms |
-| [🎨 AI Image Generator](https://github.com/autture06/AI_Image_Generator) | Generates four unique images from a text prompt using the Hugging Face ML model API | JavaScript, CSS, Hugging Face API |
-| [📱 RU Busy?](https://github.com/autture06/RU-Busy-F-SWE) | Team-built startup mobile app; I engineered the frontend login system | React Native, TypeScript, Expo |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/autture06/Portfolio-Website-Arya">🌐 Portfolio Website</a></h3>
+      Interactive developer portfolio showcasing my experience, projects, and skills.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/autture06/sorting-algorithm-visualizer-project">📊 Sorting Algorithm Visualizer</a></h3>
+      Visualizes how classic sorting algorithms work through dynamic animations.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Algorithms-555555?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/autture06/AI_Image_Generator">🎨 AI Image Generator</a></h3>
+      Generates four unique images from a text prompt using the Hugging Face ML model API.<br/><br/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/autture06/RU-Busy-F-SWE">📱 RU Busy?</a></h3>
+      Team-built startup mobile app; I engineered the frontend login system.<br/><br/>
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-More projects, including graduate ML and cloud work, will be added as I progress through my program.
+<sub>More projects, including graduate ML and cloud work, will be added as I progress through my program.</sub>
 
----
+<br/>
 
 ## 🎯 Current Goals
 
-- 📈 Grow as a software engineer at JPMorganChase
-- 🧠 Deepen my ML and statistics foundations through my BU coursework
-- ☁️ Build graduate-level projects that combine machine learning with cloud deployment
-- 🏗️ Grow into a technical leader building ML-powered, cloud-based systems
+- [ ] Grow as a software engineer at JPMorganChase
+- [ ] Deepen my ML and statistics foundations through my BU coursework
+- [ ] Build graduate-level projects that combine machine learning with cloud deployment
+- [ ] Grow into a technical leader building ML-powered, cloud-based systems
 
----
+<br/>
 
 ## 💬 Let's Collaborate
 
 If you're building something meaningful in software, cloud, or AI/ML and want to work together, or if you just want to chat tech, feel free to [email me](mailto:arya.utture@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/autture/).
 
----
+<div align="center">
 
-*Last updated: 2026*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:1f6feb&height=100&section=footer" alt="footer" width="100%"/>
+
+</div>
