@@ -82,6 +82,48 @@ and I'm building a strong foundation in machine learning through my graduate stu
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%" alt=""/>
 
+<h2 align="center">🧩 Problems I Want to Solve</h2>
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>☁️ Reliable Systems</h3>
+      Building observable cloud systems that process high volumes of data without falling behind.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🤖 Practical ML</h3>
+      Applying machine learning to real products, from model integration through cloud deployment.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📊 Trustworthy Data</h3>
+      Designing data pipelines that keep financial and analytical systems accurate and auditable.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%" alt=""/>
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🧠 Machine Learning Foundations</h3>
+      Probability, statistics, and machine learning concepts through my BU graduate coursework.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🚀 ML in the Cloud</h3>
+      Deploying and monitoring ML-powered applications on cloud infrastructure.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%" alt=""/>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
