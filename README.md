@@ -10,7 +10,7 @@
 
 <a href="https://aryauttureportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/autture/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/autture06/autture06/raw/main/Arya_Utture_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-6e40c9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+<a href="[https://github.com/autture06/autture06/raw/main/Arya_Utture_Resume.pdf](https://drive.google.com/file/d/1xW3PzqGvkUzKOis9s3nmwvJmM27w5oC2/view?usp=sharing)"><img src="https://img.shields.io/badge/RESUME-6e40c9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 <a href="mailto:arya.utture@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
