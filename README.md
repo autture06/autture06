@@ -30,7 +30,7 @@ and I'm building a strong foundation in machine learning through my graduate stu
   <tr>
     <td width="33%" valign="top" align="center">
       <h3>💼 Work</h3>
-      <b>Software Engineer I</b><br/>
+      <b>Software Engineer</b><br/>
       JPMorganChase<br/><br/>
       <sub>AWS ECS · OpenTelemetry<br/>Metrics pipelines</sub>
     </td>
