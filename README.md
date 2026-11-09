@@ -36,7 +36,7 @@ and I'm building a strong foundation in machine learning through my graduate stu
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🎓 Graduate Study</h3>
-      <b>M.S. Computer Science</b><br/>
+      <b>M.S. Computer Science & Artificial Intelligence</b><br/>
       Boston University<br/><br/>
       <sub>Probability &amp; machine learning<br/>foundations</sub>
     </td>
